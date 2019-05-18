@@ -1,4 +1,5 @@
 # Digital-Pet-JAVA
+
 This pet game need input add derbyclient.jar and derby.jar
 This pet game do not need connect to database.connecting to database will casue error
 The database is located in the folder db
