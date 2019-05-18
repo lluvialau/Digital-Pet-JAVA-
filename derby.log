@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat May 18 20:08:19 NZST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835): instance a816c00e-016a-c9fc-0c04-00001d66fc28 
+on database directory C:\Users\em165117\Desktop\PetGame_GUI_finalV1\PetGame_GUI_finalV1\db\pet  with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/em165117/Desktop/PetGame_GUI_finalV1/PetGame_GUI_finalV1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\em165117\Desktop\PetGame_GUI_finalV1\PetGame_GUI_finalV1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
